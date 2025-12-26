@@ -1,16 +1,34 @@
-# tesla_app
+# Tesla App UI
 
-A new Flutter project.
+A Flutter based **Tesla mobile app UI clone**.  
+This project focuses on **recreating the user interface and layout** of the Tesla app for learning and UI practice purposes only.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Purpose of the Project
 
-A few resources to get you started if this is your first Flutter project:
+- Practice high quality UI design
+- Understand modern automotive app layouts
+- Improve Flutter animations and layouts
+- Showcase UI cloning skills
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 🚘 Vehicle overview screen UI
+- 🔋 Battery and charging UI
+- 🌡️ Climate control UI
+- 🗺️ Location & navigation UI
+- 📱 Clean and premium design
+
+> ⚠️ Note: This project is **UI only**.  
+> No real vehicle control, backend, or Tesla API integration is included.
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- Material / Cupertino widgets
